@@ -13,13 +13,61 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi there👋
+<!-- A passionate self-taught FrontEnd Web Developer from South-Korea. -->
 
-## Hi there, I’m Jinyoung! 👋
-A passionate self-taught FrontEnd Web Developer from South-Korea.
+![Jinyoung](https://github.com/yoooooooung/yoooooooung/assets/113872386/0ad20661-83e8-4f0f-95b8-6eff9c75b374)
 
 
 
-### Languages & Tools
+<br>
+<br>
+
+
+## Who Am I
+
+<!--
+<pre>
+┌──┤ JINYOUNG ├─────────▰▰▰
+│
+├─▣ Frontend Developer
+├─▣ JavaScript & React
+├─▣ Learning Python
+├─▣ I am mostly available at The White Circle
+├─▣ <a href="https://twitter.com/">Twitter</a>
+│
+└───────────────────────────────▰▰▰
+</pre>
+-->
+<!--
+<pre>
+const JINYOUNG = {
+  pronouns: "She" | "her",
+  frontend: ["HTML", "Javascript", "ReactJs", "CSS"],
+  backend: ["Python"],
+  database: ["Postgresql", "mySQL", "Redis"],
+  cloud-server: ["AWS", "Gcloud", "DigitalOcean", "Heroku"],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  challenge: "I am doing All-In-One Toolbox for Developers. It's Muerta Toolbox."
+}
+</pre>
+-->
+```js
+
+const JINYOUNG = {
+  pronouns: "She" | "her",
+  frontend: ["HTML", "Javascript", "ReactJs", "CSS"],
+  backend: ["Python"],
+  cloud-server: ["AWS"", "Heroku"],
+  challenge: "Debugging? Bugs beware, for I shall conquer you!"
+}
+```
+
+<br>
+<br>
+
+## Languages & Tools
+
 <div style="display: flex; align-items: flex-start;">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
