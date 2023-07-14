@@ -89,3 +89,7 @@ const JINYOUNG = {
 <br>
 <br>
 
+## Main Projects
+- 나의 T력 테스트 [너 T야?](https://github.com/Naughty-ya)
+- 휠체어 이용자를 위한 지하철 안내 어플리케이션 (새싹톤 참여) [이지고잉](https://github.com/SeSACTHON-Easygoing)
+- 우리 중 숨은 스파이는 누구? 스파이를 찾는 웹게임 [We All Lion](https://github.com/seunghoonKang/we-all-lie-fe)
